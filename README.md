@@ -19,10 +19,20 @@ FEATURES:
 MAIN SCREEN:
 ![Untitled](https://user-images.githubusercontent.com/73458444/143490232-bc9a0cef-6cf0-40cf-9f2e-1a3a8784c5c9.png)
 
+MAKING NEW REGISTERATION
+![Untitled1](https://user-images.githubusercontent.com/73458444/143490233-89337c80-af66-49f2-8c31-327436eb6586.png)
+
 TAKING ATTENDANCE:
+![Untitled4](https://user-images.githubusercontent.com/73458444/143490218-0cf2b815-9bbe-47fe-8079-e6dfc2b814ed.png)
 
 SHOWING ATTENDANCE TAKEN:
+![Untitled5](https://user-images.githubusercontent.com/73458444/143490222-8c26be30-e331-4453-96f7-a2ee19694b5b.png)
+
+ATTENDANCE SHEET:
+![Untitled8](https://user-images.githubusercontent.com/73458444/143490227-e79bea98-ff25-4f87-b538-25fd7c54dc9b.png)
 
 HELP OPTION IN MENUBAR:
+![Untitled6](https://user-images.githubusercontent.com/73458444/143490225-99eaba68-3241-4ee3-bb78-535c2de3c2a6.png)
 
 CHANGE PASSWORD OPTION:
+![Untitled7](https://user-images.githubusercontent.com/73458444/143490226-1a6c7e0b-56b4-458c-acc0-84767f191993.png)

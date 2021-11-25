@@ -19,7 +19,7 @@ FEATURES:
 MAIN SCREEN:
 ![Untitled](https://user-images.githubusercontent.com/73458444/143490232-bc9a0cef-6cf0-40cf-9f2e-1a3a8784c5c9.png)
 
-MAKING NEW REGISTERATION
+MAKING NEW REGISTERATION:
 ![Untitled1](https://user-images.githubusercontent.com/73458444/143490233-89337c80-af66-49f2-8c31-327436eb6586.png)
 
 TAKING ATTENDANCE:
@@ -36,3 +36,10 @@ HELP OPTION IN MENUBAR:
 
 CHANGE PASSWORD OPTION:
 ![Untitled7](https://user-images.githubusercontent.com/73458444/143490226-1a6c7e0b-56b4-458c-acc0-84767f191993.png)
+
+
+## Author
+
+- [@vaibhavr24](https://github.com/vaibhavr24)
+
+  

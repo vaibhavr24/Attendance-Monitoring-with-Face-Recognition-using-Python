@@ -17,6 +17,7 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
+![Untitled](https://user-images.githubusercontent.com/73458444/143490232-bc9a0cef-6cf0-40cf-9f2e-1a3a8784c5c9.png)
 
 TAKING ATTENDANCE:
 
